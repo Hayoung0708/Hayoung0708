@@ -4,4 +4,4 @@
 
 <hr>
 
-![Hayoung0708's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayoung0708&show_icons=true&theme=dracula)
+![Hayoung0708's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayoung0708&show_icons=true&theme.title_color=faaca8&theme.icon_color=79dafa&theme.text_color=f8f8f2&theme.bg_color=0d1116)
