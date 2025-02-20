@@ -5,3 +5,7 @@
 <hr>
 
 ![Hayoung0708's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayoung0708&show_icons=true&title_color=faaca8&icon_color=ddd6f3&text_color=687078&bg_color=00000000)
+
+<hr>
+
+<img src="https://ghchart.rshah.org/faaca8/Hayoung0708" />
