@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badgestyle=flat-squaret&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badgestyle=flat-squaret&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badgestyle=flat-squaret&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badgestyle=flat-squaret&logo=vue.js&logoColor=white"/>
 
 ### 🎨Style🎨
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badgestyle=flat-squaret&logo=CSS3&logoColor=white"/>
@@ -17,7 +16,6 @@
 
 ### 🗂State Management🗂
 <img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badgestyle=flat-squaret&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/Pinia-2EBC4F?style=for-the-badgestyle=flat-squaret&logo=pinia&logoColor=white"/>
 
 ### ⚙️Build & Development⚙️
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badgestyle=flat-squaret&logo=vite&logoColor=white">
