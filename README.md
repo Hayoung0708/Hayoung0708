@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ddd6f3,100:faaca8&text=Hi,%20Im%20Hayoung!&reversal=true&fontColor=black&textBg=false&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Front-End%20Developer&descAlignY=70&descAlign=50&descSize=20)
 
 # ✨About Me✨
-📍 더 나은 사용자 경험을 위해 끊임없이 고민하고 노력해요.
+📍 **더 나은 사용자 경험**을 위해 끊임없이 고민하고 노력해요.
 
-📍 일상에서 느낀 불편함이나 아이디어를 개발로 구현하는 것을 즐겨요.
+📍 일상에서 느낀 **불편함이나 아이디어를 개발로 구현**하는 것을 즐겨요.
 
-📍 읽기 쉽고 유지보수가 용이한 코드를 지향해요.
+📍 **읽기 쉽고 유지보수가 용이한 코드**를 지향해요.
 
-📍 낯선 코드나 새로운 기술도 빠르게 습득하고, 유연하게 응용하는 편이예요.
+📍 낯선 코드나 새로운 기술도 **빠르게 습득**하고, **유연하게 응용**하는 편이예요.
 
 <br>
 
