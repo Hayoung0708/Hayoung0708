@@ -41,6 +41,7 @@
 <hr>
 
 <img height="165" src="https://hayoung-github-readme-stats.vercel.app/api?username=Hayoung0708&show_icons=true&title_color=faaca8&icon_color=ddd6f3&text_color=687078&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://hayoung-github-readme-stats.vercel.app/api/top-langs?username=Hayoung0708&layout=compact&title_color=faaca8&text_color=687078&bg_color=00000000&hide_border=true&langs_count=8" />
+
+<br>
 
 ![](https://ghchart.rshah.org/c88a86/Hayoung0708)
