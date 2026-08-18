@@ -16,8 +16,6 @@
 
 ### Programming
 
-### 🖥️ Programming
-
 <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs" height="48" alt="Programming skills"/> <img src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" height="44" alt="Zustand"/> <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="44" alt="TanStack Query"/>
 
 `HTML5` `JavaScript` `TypeScript` `React` `Next.js` `Zustand` `TanStack Query`
